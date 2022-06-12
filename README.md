@@ -20,6 +20,7 @@ A Ecommerce application we help user to buy perfect earring on choice.We have co
 - [@nishant](https://github.com/nishu9162306344)
 
 
+
 ## Roadmap
 
 - hibernate-configuration
@@ -43,4 +44,3 @@ A Ecommerce application we help user to buy perfect earring on choice.We have co
  
   </session-factory>
 </hibernate-configuration>
- 
