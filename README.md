@@ -1,7 +1,7 @@
 
 # EarCommerce
 
-A Ecommerce application we help user to buy perfect earring on choice.We have collection of many earring available jo chooses and buy it ! 
+A Ecommerce application we help user to buy perfect earring on choice. We have collection of many earring available chooses and buy it ! 
 ## Tech Stack We Used
 
  - [Java]()
