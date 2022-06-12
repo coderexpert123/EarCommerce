@@ -1,0 +1,4 @@
+com\mycompany\earcommerce\helper\FactoryProvider.class
+com\mycompany\earcommerce\entities\Category.class
+com\mycompany\earcommerce\entities\Product.class
+com\mycompany\earcommerce\entities\User.class
